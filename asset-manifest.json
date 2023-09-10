@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beat-machine/static/css/main.c379e993.css",
+    "main.js": "/beat-machine/static/js/main.5e35696f.js",
+    "static/js/787.7d591d56.chunk.js": "/beat-machine/static/js/787.7d591d56.chunk.js",
+    "index.html": "/beat-machine/index.html",
+    "main.c379e993.css.map": "/beat-machine/static/css/main.c379e993.css.map",
+    "main.5e35696f.js.map": "/beat-machine/static/js/main.5e35696f.js.map",
+    "787.7d591d56.chunk.js.map": "/beat-machine/static/js/787.7d591d56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c379e993.css",
+    "static/js/main.5e35696f.js"
+  ]
+}
